@@ -1,3 +1,4 @@
+
 # rust-cross-compile-example
 
 [![Rust](https://github.com/nicolas-van/rust-cross-compile-example/actions/workflows/rust.yml/badge.svg)](https://github.com/nicolas-van/rust-cross-compile-example/actions/workflows/rust.yml)
